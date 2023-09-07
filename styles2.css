@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+h1{
+    color: azure;
+    font-weight: 500;
+    font-size: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
